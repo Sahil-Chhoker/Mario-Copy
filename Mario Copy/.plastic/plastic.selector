@@ -1,0 +1,4 @@
+repository "Mario Copy@Nova_Legend@cloud"
+  path "/"
+    br "/main"
+    co "/main"
